@@ -1,2 +1,3 @@
 # PPM-To-ASCII
-Turn a ASCII PPM file into ASCII characters.
+Turn an ASCII PPM file into ASCII characters.
+
